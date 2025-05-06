@@ -1,6 +1,6 @@
-# GraphSense: Network Analysis and Visualization Tool
+# Netlytics: Network Analysis and Visualization Tool
 
-GraphSense is an open-source desktop application designed for analyzing and visualizing complex networks. Built with Python, PyQt5, NetworkX, and Matplotlib, it provides an intuitive interface for loading graph data, performing advanced network analysis, and generating interactive visualizations.
+Netlytics is an open-source desktop application designed for analyzing and visualizing complex networks. Built with Python, PyQt5, NetworkX, and Matplotlib, it provides an intuitive interface for loading graph data, performing advanced network analysis, and generating interactive visualizations.
 
 ## Features
 - **Graph Loading**: Import nodes and edges from CSV files, supporting both directed and undirected graphs.
